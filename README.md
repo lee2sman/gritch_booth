@@ -11,7 +11,7 @@ Glitch video based on ambient sound, captures frame and print to polaroid.
 
 - Create "your Images" folder to store the frames captured
 - Download [Print to Pogo Script](http://dl.dropbox.com/u/100742/Print%20to%20Pogo.scpt.zip)
-- Put in /Library/scripts/Folder Action Scripts
+- Put script in /Library/scripts/Folder Action Scripts
 - Right click folder you want to attach script to ("your images")
 - Select Services > Folder Action Setup
 - Click to link script "print to pogo"
